@@ -1,0 +1,18 @@
+* os --
+* Ubuntu -- 
+* Python
+* Compiled vs Interpreted --
+
+* Python IDLE 
+* Basics of Python
+* Variables
+* Data types
+* Conditionals
+* Loops
+* Jumps
+* functions
+* classes (intro)
+* sequences
+* dictionary
+
+* a little more classes (Python is not a complete OOP, no major language provides)
